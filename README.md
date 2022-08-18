@@ -75,7 +75,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 heroku/nodejs
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thushan202200/whatsapp-bot-md/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thushan202200/raganork-md)
 
 # Install Manually 👇
 ## `Requirements`
